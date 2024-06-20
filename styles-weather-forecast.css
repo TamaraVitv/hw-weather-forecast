@@ -9,6 +9,7 @@ body {
   background-color: #3399cc;
   border: 25px solid #2b81ac;
   font-family: "Lucida Sans Unicode", sans-serif;
+  outline-style: solid;
 }
 
 header {
@@ -34,6 +35,7 @@ header {
   border: 2px solid #fff;
   text-align: center;
   font-size: 22px;
+  outline-style: solid;
 }
 
 .blocks div {
